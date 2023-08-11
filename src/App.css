@@ -4,6 +4,8 @@
 body{
   background-color: black;
 }
-h1{
+.nav{
   color: var(--yellow);
+  margin-top: 5px;
+ 
 }

@@ -15,12 +15,14 @@ function Grid ({ numberOfCards }){
         const win = isWinner(board, turn ? "O" : "X");
         if(win){
             setWinner(win);
+        } else if (!board.includes("")) {
+            setWinner("draw");
         }
         setBoard([...board]);
         setTurn(!turn)
     }
     function reset(){
-        setTurn(true);
+        setTurn(true)
         setWinner(null)
         setBoard(Array(numberOfCards).fill(""))
     }

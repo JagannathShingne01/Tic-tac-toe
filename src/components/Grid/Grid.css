@@ -10,3 +10,22 @@
 .turn-highlight{
     color: white;
 }
+.turn-highlight:last-child{
+color: yellow;
+}
+.reset{
+    margin-top: 5px ;
+    padding: 10px 10px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    color: black;
+    background: #fff;
+    transition: .3s linear;
+    cursor: pointer;
+}
+.reset:hover{
+    background: black;
+    color: var(--yellow);
+    border: 1px solid var(--yellow);
+}
