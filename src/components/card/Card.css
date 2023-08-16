@@ -9,3 +9,10 @@
     border-radius: 10%;
     background-color: var(--yellow);
 }
+.card:hover{
+    background:#F7E987;
+}
+.card > span{
+    font-size: 5rem;
+    margin-left: 1rem;
+}
