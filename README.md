@@ -1,6 +1,6 @@
 # React Tic Tac Toe Game
 
-![image](https://github.com/JagannathShingne01/Tic-tac-toe/assets/133676629/9c77f1e2-1621-450d-bd5b-4cc2bb660699)
+![image](https://github.com/JagannathShingne01/Tic-tac-toe/assets/133676629/1482767e-8005-4811-a822-132732ece1a9)
 
 
 
