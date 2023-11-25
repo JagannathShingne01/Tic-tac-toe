@@ -40,4 +40,4 @@ This is a simple implementation of the classic Tic Tac Toe game built using Reac
 
 Feel free to contribute to the project by opening issues or submitting pull requests. If you have any questions or suggestions, please don't hesitate to contact us.
 
-Happy gaming!
+Happy gaming! :)
